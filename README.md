@@ -1,3 +1,5 @@
+Coonies fork: Defuses fusion jokers. They're now normal jokers.
+
 # Mystes' Open Jokers - A Balatro Mod
 
 ## Introduction
